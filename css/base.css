@@ -1,0 +1,35 @@
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+ul > li {
+    list-style: none;
+    display: inline;
+}
+
+header {
+    background-color: #283f51;
+}
+
+header a {
+    color: #fff;
+}
+
+header ul {
+    text-align: right;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+main {
+    background-color: #5693bf;
+    padding: 30px;
+}
+
+main section {
+    background-color: #dbeefc;
+    border: 1px solid #000;
+}
